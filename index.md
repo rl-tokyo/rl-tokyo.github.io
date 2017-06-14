@@ -51,9 +51,9 @@ layout: default
 |  17 | 2016/04/20 | @smochi |教科書: p.7-p.12 | |
 |  18 | 2016/04/27 | @takayukisekine |論文: Deep Reinforcement Learning with Attention for Slate Markov Decision Processes with High-Dimensional States and Actions | |
 |  19 | 2016/05/11 | @smochi |教科書: p.7-p.12（続き） | |
-|  20 | 2016/05/18 | @RodeoBoy24420 |論文: Algorithms for Inverse Reinforcement Learning | |
+|  20 | 2016/05/18 | @RodeoBoy24420 |論文: [Algorithms for Inverse Reinforcement Learning](http://ai.stanford.edu/~ang/papers/icml00-irl.pdf) | [pdf](resource/20160518-RodeoBoy24420.pdf) |
 |  21 | 2016/05/25 | @nnnnishi |教科書: p.12-p.17 | |
-|  22 | 2016/06/01 | @sotetsuk |論文: Dopamine Cells Respond to Predicted Events during Classical Conditioning: Evidence for Eligibility Traces in the Reward-Learning Network | |
+|  22 | 2016/06/01 | @sotetsuk |論文: [Dopamine Cells Respond to Predicted Events during Classical Conditioning: Evidence for Eligibility Traces in the Reward-Learning Network](http://www.jneurosci.org/content/25/26/6235) | [slideshare](https://www.slideshare.net/sotetsukoyamada/22-62639753) |
 |  23 | 2016/06/08 | @YuriCat |教科書: p.17-p.23 | |
 |  24 | 2016/06/15 | @ikki407 |論文: [A Contextual-Bandit Approach to Personalized News Article Recommendation](https://arxiv.org/abs/1003.0146) | [pdf](resource/20160615-ikki407.pdf) |
 |  25 | 2016/06/22 | @fullflu |教科書: p.23-p.29 | |
