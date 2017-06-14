@@ -55,7 +55,7 @@ layout: default
 |  21 | 2016/05/25 | @nnnnishi |教科書: p.12-p.17 | |
 |  22 | 2016/06/01 | @sotetsuk |論文: Dopamine Cells Respond to Predicted Events during Classical Conditioning: Evidence for Eligibility Traces in the Reward-Learning Network | |
 |  23 | 2016/06/08 | @YuriCat |教科書: p.17-p.23 | |
-|  24 | 2016/06/15 | @ikki407 |論文: A Contextual-Bandit Approach to Personalized News Article Recommendation | |
+|  24 | 2016/06/15 | @ikki407 |論文: [A Contextual-Bandit Approach to Personalized News Article Recommendation](https://arxiv.org/abs/1003.0146) | [pdf](resource/20160615-ikki407.pdf) |
 |  25 | 2016/06/22 | @fullflu |教科書: p.23-p.29 | |
 |  26 | 2016/06/29 | Ueki-san |論文: [True Online TD(λ) ](http://proceedings.mlr.press/v32/seijen14.pdf)| |
 |  27 | 2016/07/06 | @muupan |教科書: p.29-p.35 | |
