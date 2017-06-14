@@ -47,7 +47,7 @@ layout: default
 |  13 | 2016/02/29 | @sotetsuk |教科書: p.62-p.67 | |
 |  14 | 2016/03/28 | @ikki407  |教科書: p.68-p.74 | |
 |  15 | 2016/04/06 | @sotetsuk |教科書: p.3-p.6 | |
-|  16 | 2016/04/13 | @muupan |論文: Mastering the game of Go with deep neural networks and tree search | |
+|  16 | 2016/04/13 | @muupan |論文: [Mastering the game of Go with deep neural networks and tree search](https://vk.com/doc-44016343_437229031?dl=56ce06e325d42fbc72) | [pdf](resource/20160413-muupan.pdf) |
 |  17 | 2016/04/20 | @smochi |教科書: p.7-p.12 | |
 |  18 | 2016/04/27 | @takayukisekine |論文: [Deep Reinforcement Learning with Attention for Slate Markov Decision Processes with High-Dimensional States and Actions](https://arxiv.org/abs/1512.01124) | [pdf](resource/20160427-takayukisekine.pdf) |
 |  19 | 2016/05/11 | @smochi |教科書: p.7-p.12（続き） | |
