@@ -49,7 +49,7 @@ layout: default
 |  15 | 2016/04/06 | @sotetsuk |教科書: p.3-p.6 | |
 |  16 | 2016/04/13 | @muupan |論文: Mastering the game of Go with deep neural networks and tree search | |
 |  17 | 2016/04/20 | @smochi |教科書: p.7-p.12 | |
-|  18 | 2016/04/27 | @takayukisekine |論文: Deep Reinforcement Learning with Attention for Slate Markov Decision Processes with High-Dimensional States and Actions | |
+|  18 | 2016/04/27 | @takayukisekine |論文: [Deep Reinforcement Learning with Attention for Slate Markov Decision Processes with High-Dimensional States and Actions](https://arxiv.org/abs/1512.01124) | [pdf](resource/20160427-takayukisekine.pdf) |
 |  19 | 2016/05/11 | @smochi |教科書: p.7-p.12（続き） | |
 |  20 | 2016/05/18 | @RodeoBoy24420 |論文: [Algorithms for Inverse Reinforcement Learning](http://ai.stanford.edu/~ang/papers/icml00-irl.pdf) | [pdf](resource/20160518-RodeoBoy24420.pdf) |
 |  21 | 2016/05/25 | @nnnnishi |教科書: p.12-p.17 | |
