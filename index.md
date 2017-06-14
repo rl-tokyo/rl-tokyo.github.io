@@ -88,7 +88,7 @@ layout: default
 |  55 | 2017/04/12 | @kiyukuta | 教科書: p.23-p.29 | |
 |  56 | 2017/04/19 | @sotetsuk |論文: [Reward Augmented Maximum Likelihood for Neural Structured Prediction](https://arxiv.org/abs/1609.00150) | [slideshare](https://www.slideshare.net/sotetsukoyamada/reward-augmented-maximum-likelihood-for-neural-structured-prediction) |
 |  57 | 2017/04/26 | Kume-san | 教科書: p.29-p.35 | |
-|  58 | 2017/05/10 | Yamada-san |論文: [Overcoming catastrophic forgetting in neural networks](https://arxiv.org/abs/1612.00796) | |
+|  58 | 2017/05/10 | Yamada-san |論文: [Overcoming catastrophic forgetting in neural networks](https://arxiv.org/abs/1612.00796) | [pdf](resource/20170510-yamada.pdf) |
 |  59 | 2017/05/17 | @ororoku | 教科書: p.35-p.40 | |
 |  60 | 2017/05/24 | @smochi |論文: [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952) | [google slide](https://docs.google.com/presentation/d/1P_ks8cqXcQmc8rBk7QlxcBHwfSdlNYnPmnWF0yj_nYs/edit#slide=id.g22de88c68b_1_160) |
 |  61 | 2017/05/31 | @eratostennis | 教科書: p.40-p.45 | |
