@@ -61,7 +61,7 @@ layout: default
 |  27 | 2016/07/06 | @muupan |教科書: p.29-p.35 | |
 |  28 | 2016/07/20 | @smochi |論文: Dynamic pricing policies for interdependent perishable products or services using reinforcement learning | |
 |  29 | 2016/08/03 | @takayukisekine |教科書: p.35-p.40 | |
-|  30 | 2016/08/10 | @nnnnishi |論文: Ensemble Contextual Bandits for Personalized Recommendation | |
+|  30 | 2016/08/10 | @nnnnishi |論文: [Ensemble Contextual Bandits for Personalized Recommendation](http://dl.acm.org/citation.cfm?id=2645732) | [slideshare](https://www.slideshare.net/NaokiNISHIMURA2/30ensemble-contextual-bandits-for-personalized-recommendation) |
 |  31 | 2016/08/24 | @RodeoBoy24420 |教科書: p.40-p.45 | |
 |  32 | 2016/08/31 | @sotetsuk |論文: [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](https://arxiv.org/abs/1604.06057) | [slideshare](https://www.slideshare.net/sotetsukoyamada/kulkarni-et-al-2016) |
 |  33 | 2016/09/14 | @ikki407 |教科書: p.45-p.50  | |
