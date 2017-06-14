@@ -93,10 +93,16 @@ layout: default
 |  60 | 2017/05/24 | @smochi |論文: [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952) | [google slide](https://docs.google.com/presentation/d/1P_ks8cqXcQmc8rBk7QlxcBHwfSdlNYnPmnWF0yj_nYs/edit#slide=id.g22de88c68b_1_160) |
 |  61 | 2017/05/31 | @eratostennis | 教科書: p.40-p.45 | |
 |  62 | 2017/06/07 | @sotetsuk |論文: [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://arxiv.org/abs/1702.08892) | [Dropbox paper](https://paper.dropbox.com/doc/Bridging-the-Gap-Between-Value-and-Policy-Based-Reinforcement-Learning-JmxgdnSMzEQUmBTk1C31T) |
-|  63 | 2017/06/14 | @STRatANG | 教科書: p.45-p.50 | |
-|  64 | 2017/06/21 | @YuriCat | TBA | |
+|  63 | 2017/06/14 | @STRatANG | 教科書: p.45-p.50 | [当日メモ](https://paper.dropbox.com/doc/20170614-63-CKfWM2TQ0gyQW4aGEypZ0) |
+|  64 | 2017/06/21 | @YuriCat | [The Predictron: End-To-End Learning and Planning](https://arxiv.org/abs/1612.08810) | |
 |  65 | 2017/06/28 | @fullflu | 教科書: p.50-p.56 | |
 |  66 | 2017/07/05 | @shiba24 | TBA | |
+|  66 | 2017/07/12 | Kume-san | 教科書: p.56-p.62 | |
+|  66 | 2017/07/19 | TBA | TBA | |
+|  66 | 2017/07/26 | @kiyukuta | 教科書: p.62-p.67 | |
+|  66 | 2017/08/02 | TBA | TBA | |
+|  66 | 2017/08/09 | Kawajiri-san | 教科書: p68-p74 | |
+
 
 - （注）教科書のページは "[Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html)" のPDFのページに対応
 - （注）担当者欄はGitHubアカウントが判明している方については@つきでGitHubアカウントで掲載しています。
