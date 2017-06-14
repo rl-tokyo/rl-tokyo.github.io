@@ -69,9 +69,9 @@ layout: default
 |  35 | 2016/09/28 | @shiba24 |教科書: p.50-p.56 | |
 |  36 | 2016/10/05 | @takayukisekine |論文: [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/abs/1609.05473) | [slideshare](http://www.slideshare.net/TakayukiSekine1/seq-gan-66772221) |
 |  37 | 2016/10/19 | @shiba24 |教科書: p.50-p.56 | |
-|  38 | 2016/10/26 | @shiba24 |論文: Hybrid computing using a neural network with dynamic external memory | |
+|  38 | 2016/10/26 | @shiba24 |論文: [Hybrid computing using a neural network with dynamic external memory](https://www.nature.com/nature/journal/v538/n7626/abs/nature20101.html?lang=en) | [pdf](resource/20161026_dnc.pdf) |
 |  39 | 2016/11/02 | @muupan |教科書: p.56-p.62 | |
-|  40 | 2016/11/09 | @fullflu |論文: [DCM Bandits: Learning to Rank with Multiple Clicks](https://arxiv.org/abs/1602.03146) | [pdf](resource/) |
+|  40 | 2016/11/09 | @fullflu |論文: [DCM Bandits: Learning to Rank with Multiple Clicks](https://arxiv.org/abs/1602.03146) | [pdf](resource/20161109-fullflu.pdf) |
 |  41 | 2016/11/30 | @fullflu |教科書: p.62-p.67 | |
 |  43 | 2016/12/07 | @shiba24 |教科書: p.68-p.74 | |
 |  44 | 2017/01/11 | @muupan |論文: [Safe and Efficient Off-PolicyReinforcement Learning](https://arxiv.org/abs/1606.02647) | [pdf](resource/20170111-muupan.pdf) |
