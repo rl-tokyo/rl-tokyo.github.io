@@ -98,8 +98,8 @@ layout: default
 |  65 | 2017/06/28 | @fullflu | 教科書: p.50-p.56 | |
 |  66 | 2017/07/05 | @shiba24 | TBA | |
 
-（注）教科書のページは "[Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html)" のPDFのページに対応
-（注）担当者欄はGitHubアカウントが判明している方については@つきでGitHubアカウントで掲載しています。
+- （注）教科書のページは "[Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html)" のPDFのページに対応
+- （注）担当者欄はGitHubアカウントが判明している方については@つきでGitHubアカウントで掲載しています。
 
 # お問い合わせ
 [github.com/rl-tokyo/rl-tokyo.github.io/issues](https://github.com/rl-tokyo/rl-tokyo.github.io/issues/new) にて承ります。
