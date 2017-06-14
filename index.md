@@ -65,7 +65,7 @@ layout: default
 |  31 | 2016/08/24 | @RodeoBoy24420 |教科書: p.40-p.45 | |
 |  32 | 2016/08/31 | @sotetsuk |論文: Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation | [slideshare](https://www.slideshare.net/sotetsukoyamada/kulkarni-et-al-2016) |
 |  33 | 2016/09/14 | @ikki407 |教科書: p.45-p.50  | |
-|  34 | 2016/09/21 | @YuriCat |論文: [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/abs/1606.01868) | |
+|  34 | 2016/09/21 | @YuriCat |論文: [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/abs/1606.01868) | [slideshare](https://www.slideshare.net/KatsukiOhto/unifying-count-based-exploration-and-intrinsic-motivation) |
 |  35 | 2016/09/28 | @shiba24 |教科書: p.50-p.56 | |
 |  36 | 2016/10/05 | @takayukisekine |論文: [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/abs/1609.05473) | [slideshare](http://www.slideshare.net/TakayukiSekine1/seq-gan-66772221) |
 |  37 | 2016/10/19 | @shiba24 |教科書: p.50-p.56 | |
