@@ -82,7 +82,7 @@ layout: default
 |  49 | 2017/03/01 | @sotetsuk | 教科書: p.3-p.12 | |
 |  50 | 2017/03/08 | @nnnnishi |論文: [Optimal Asset Allocation using Adaptive Dynamic Programming](https://papers.nips.cc/paper/1121-optimal-asset-allocation-using-adaptive-dynamic-programming.pdf) / [Enhancing Q-Learning for Optimal Asset Allocation](https://papers.nips.cc/paper/1427-enhancing-q-learning-for-optimal-asset-allocation.pdf) | |
 |  51 | 2017/03/15 | @STRatANG | 教科書: p.12-p.17 | |
-|  52 | 2017/03/22 | @YuriCat |論文: [Combining policy gradient and Q-learning](https://arxiv.org/abs/1611.01626) | |
+|  52 | 2017/03/22 | @YuriCat |論文: [Combining policy gradient and Q-learning](https://arxiv.org/abs/1611.01626) | [slideshare](https://www.slideshare.net/sotetsukoyamada/pgq-combining-policy-gradient-and-qlearning) |
 |  53 | 2017/03/29 | @pacocat | 教科書: p.17-p.23 | |
 |  54 | 2017/04/05 | @takayukisekine |論文: [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://arxiv.org/abs/1703.03864) | [pdf](resource/20170405-sekine.pdf) |
 |  55 | 2017/04/12 | @kiyukuta | 教科書: p.23-p.29 | |
