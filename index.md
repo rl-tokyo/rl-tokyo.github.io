@@ -77,7 +77,7 @@ layout: default
 |  44 | 2017/01/11 | @muupan |論文: Safe and Efficient Off-PolicyReinforcement Learning | |
 |  45 | 2017/01/18 | @RodeoBoy24420 | 論文: Application of fuzzyQ-learning for electricity market modeling by considering renewable power penetration | |
 |  46 | 2017/02/01 | @STRatANG |論文: Sample Efficient Actor-Critic with Experience Replay | |
-|  47 | 2017/02/08 | @ororoku |論文: The Dynamics of Reinforcement Learning in Cooperative Multiagent Systems | |
+|  47 | 2017/02/08 | @ororoku |論文: [The Dynamics of Reinforcement Learning in Cooperative Multiagent Systems](https://www.aaai.org/Papers/AAAI/1998/AAAI98-106.pdf) | [pdf](resource/20170208-ororoku.pdf) |
 |  48 | 2017/02/15 | @smochi |論文: [Artist Agent: A Reinforcement Learning Approach to Automatic Stroke Generation in Oriental Ink Painting](https://arxiv.org/abs/1206.4634) | [pdf](resource/20170212-smochi.pdf) |
 |  49 | 2017/03/01 | @sotetsuk | 教科書: p.3-p.12 | |
 |  50 | 2017/03/08 | @nnnnishi |論文: [Optimal Asset Allocation using Adaptive Dynamic Programming](https://papers.nips.cc/paper/1121-optimal-asset-allocation-using-adaptive-dynamic-programming.pdf) / [Enhancing Q-Learning for Optimal Asset Allocation](https://papers.nips.cc/paper/1427-enhancing-q-learning-for-optimal-asset-allocation.pdf) | [pdf](resource/20170308-nnnnishi.pdf) |
