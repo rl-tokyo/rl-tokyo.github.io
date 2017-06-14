@@ -80,7 +80,7 @@ layout: default
 |  47 | 2017/02/08 | @ororoku |論文: The Dynamics of Reinforcement Learning in Cooperative Multiagent Systems | |
 |  48 | 2017/02/15 | @smochi |論文: Artist Agent: A Reinforcement Learning Approach to Automatic Stroke Generation in Oriental Ink Painting | |
 |  49 | 2017/03/01 | @sotetsuk | 教科書: p.3-p.12 | |
-|  50 | 2017/03/08 | @nnnnishi |論文: [Optimal Asset Allocation using Adaptive Dynamic Programming](https://papers.nips.cc/paper/1121-optimal-asset-allocation-using-adaptive-dynamic-programming.pdf) / [Enhancing Q-Learning for Optimal Asset Allocation](https://papers.nips.cc/paper/1427-enhancing-q-learning-for-optimal-asset-allocation.pdf) | |
+|  50 | 2017/03/08 | @nnnnishi |論文: [Optimal Asset Allocation using Adaptive Dynamic Programming](https://papers.nips.cc/paper/1121-optimal-asset-allocation-using-adaptive-dynamic-programming.pdf) / [Enhancing Q-Learning for Optimal Asset Allocation](https://papers.nips.cc/paper/1427-enhancing-q-learning-for-optimal-asset-allocation.pdf) | [pdf](resource/20170308-nnnnishi.pdf) |
 |  51 | 2017/03/15 | @STRatANG | 教科書: p.12-p.17 | |
 |  52 | 2017/03/22 | @YuriCat |論文: [Combining policy gradient and Q-learning](https://arxiv.org/abs/1611.01626) | [slideshare](https://www.slideshare.net/sotetsukoyamada/pgq-combining-policy-gradient-and-qlearning) |
 |  53 | 2017/03/29 | @pacocat | 教科書: p.17-p.23 | |
