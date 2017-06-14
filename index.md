@@ -39,7 +39,7 @@ layout: default
 |   5 | 2015/11/24 | @takayukisekine |教科書: p.17-p.23 | |
 |   6 | 2015/12/02 | @ikki407 |教科書: p.23-p.29 | [pdf](resource/20151202-ikki407.pdf) |
 |   7 | 2015/12/08 | @sotetsuk |教科書: p.29-p.35 | |
-|   8 | 2015/12/16 | @fullflu |教科書: p.35-p.40 | |
+|   8 | 2015/12/16 | @fullflu |教科書: p.35-p.40 | [pdf](resource/20151216-fullflu.pdf) |
 |   9 | 2016/01/18 | @smochi |教科書: p.40-p.45  | |
 |  10 | 2016/01/27 | @nnnnishi |教科書: p.45-p.50  | |
 |  11 | 2016/02/08 | @RodeoBoy24420  |教科書: p.50-p.56 | |
