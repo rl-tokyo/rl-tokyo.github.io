@@ -32,7 +32,7 @@ layout: default
 
 |   # | 日付 | 担当 | 内容 | 資料 |
 |:----|:-----------|:---------------|
-|   1 | 2015/10/22 | @sotetsuk / @RodeoBoy24420 |キックオフ: @sotetsukから趣旨の説明と@RodeoBoy24420から強化学習概要 | |
+|   1 | 2015/10/22 | @sotetsuk / @RodeoBoy24420 |キックオフ: @sotetsukから趣旨の説明と@RodeoBoy24420から強化学習概要 | [pdf](resource/20151022-RodeoBoy24420.pdf) |
 |   2 | 2015/11/02 | @smochi |教科書: p.3-p.6 | |
 |   3 | 2015/11/12 | @nnnnishi |教科書: p.7-p.12 | |
 |   4 | 2015/11/17 | @RodeoBoy24420 |教科書: p.12-p.17 | |
