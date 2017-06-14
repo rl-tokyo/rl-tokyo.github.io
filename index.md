@@ -57,9 +57,9 @@ layout: default
 |  23 | 2016/06/08 | @YuriCat |教科書: p.17-p.23 | |
 |  24 | 2016/06/15 | @ikki407 |論文: A Contextual-Bandit Approach to Personalized News Article Recommendation | |
 |  25 | 2016/06/22 | @fullflu |教科書: p.23-p.29 | |
-|  26 | 2016/06/29 | Ueki-san |論文: True Online TD(λ) | |
+|  26 | 2016/06/29 | Ueki-san |論文: [True Online TD(λ) ](http://proceedings.mlr.press/v32/seijen14.pdf)| |
 |  27 | 2016/07/06 | @muupan |教科書: p.29-p.35 | |
-|  28 | 2016/07/20 | @smochi |論文: Dynamic pricing policies for interdependent perishable products or services using reinforcement learning | |
+|  28 | 2016/07/20 | @smochi |論文: [Dynamic pricing policies for interdependent perishable products or services using reinforcement learning](http://dl.acm.org/citation.cfm?id=2953251) | |
 |  29 | 2016/08/03 | @takayukisekine |教科書: p.35-p.40 | |
 |  30 | 2016/08/10 | @nnnnishi |論文: [Ensemble Contextual Bandits for Personalized Recommendation](http://dl.acm.org/citation.cfm?id=2645732) | [slideshare](https://www.slideshare.net/NaokiNISHIMURA2/30ensemble-contextual-bandits-for-personalized-recommendation) |
 |  31 | 2016/08/24 | @RodeoBoy24420 |教科書: p.40-p.45 | |
