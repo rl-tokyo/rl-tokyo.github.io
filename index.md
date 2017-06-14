@@ -84,7 +84,7 @@ layout: default
 |  51 | 2017/03/15 | @STRatANG | 教科書: p.12-p.17 | |
 |  52 | 2017/03/22 | @YuriCat |論文: [Combining policy gradient and Q-learning](https://arxiv.org/abs/1611.01626) | |
 |  53 | 2017/03/29 | @pacocat | 教科書: p.17-p.23 | |
-|  54 | 2017/04/05 | @takayukisekine |論文: [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://arxiv.org/abs/1703.03864) | |
+|  54 | 2017/04/05 | @takayukisekine |論文: [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://arxiv.org/abs/1703.03864) | [pdf](resource/20170405-sekine.pdf) |
 |  55 | 2017/04/12 | @kiyukuta | 教科書: p.23-p.29 | |
 |  56 | 2017/04/19 | @sotetsuk |論文: [Reward Augmented Maximum Likelihood for Neural Structured Prediction](https://arxiv.org/abs/1609.00150) | [slideshare](https://www.slideshare.net/sotetsukoyamada/reward-augmented-maximum-likelihood-for-neural-structured-prediction) |
 |  57 | 2017/04/26 | Kume-san | 教科書: p.29-p.35 | |
