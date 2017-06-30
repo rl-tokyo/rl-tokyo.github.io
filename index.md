@@ -95,7 +95,7 @@ layout: default
 |  62 | 2017/06/07 | @sotetsuk |論文: [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://arxiv.org/abs/1702.08892) | [Dropbox paper](https://paper.dropbox.com/doc/Bridging-the-Gap-Between-Value-and-Policy-Based-Reinforcement-Learning-JmxgdnSMzEQUmBTk1C31T) |
 |  63 | 2017/06/14 | @STRatANG | 教科書: p.45-p.50 | [当日メモ](https://paper.dropbox.com/doc/20170614-63-CKfWM2TQ0gyQW4aGEypZ0) |
 |  64 | 2017/06/21 | @YuriCat | [The Predictron: End-To-End Learning and Planning](https://arxiv.org/abs/1612.08810) | [Dropbox paper](https://paper.dropbox.com/doc/The-Predictron-End-to-End-Learning-and-Planning-B8bAPaUfElK0yhEPP2Qgu) |
-|  65 | 2017/06/28 | @fullflu | 教科書: p.50-p.56 | |
+|  65 | 2017/06/28 | @fullflu | 教科書: p.50-p.56 | [当日メモ](https://paper.dropbox.com/doc/65-i42HBMyaDfTc3wCEasm1c) |
 |  66 | 2017/07/05 | @shiba24 | TBA | |
 |  67 | 2017/07/12 | Kume-san | 教科書: p.56-p.62 | |
 |  68 | 2017/07/19 | @ikki407 | TBA | |
