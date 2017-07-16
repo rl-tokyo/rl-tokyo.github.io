@@ -98,7 +98,7 @@ layout: default
 |  65 | 2017/06/28 | @fullflu | 教科書: p.50-p.56 | [当日メモ](https://paper.dropbox.com/doc/65-i42HBMyaDfTc3wCEasm1c) |
 |  66 | 2017/07/05 | @shiba24 | [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477) | [google slide](https://docs.google.com/presentation/d/1BUAbeNbO_-cEBpFQgN2mnrSaUeF-QLD9OPIFpai9Gz8/edit) / [当日メモ](https://paper.dropbox.com/doc/66-dRD0JX8C0PTnsMi8E1vaF) |
 |  67 | 2017/07/12 | Kume-san | 教科書: p.56-p.62 | [当日メモ](https://paper.dropbox.com/doc/67-d8PCnv47TrSSa1tNqibhN) |
-|  68 | 2017/07/19 | @ikki407 | TBA | |
+|  68 | 2017/07/19 | @ikki407 | [Multiagent Bidirectionally-Coordinated Nets for Learning to Play StarCraft Combat Games](https://arxiv.org/abs/1703.10069) | |
 |  69 | 2017/07/26 | @kiyukuta | 教科書: p.62-p.67 | |
 |  70 | 2017/08/02 | Kohno-san | TBA | |
 |  71 | 2017/08/09 | Kawajiri-san | 教科書: p68-p74 | |
