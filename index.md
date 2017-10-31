@@ -15,7 +15,7 @@ layout: default
 ### [速習 強化学習 ―基礎理論とアルゴリズム―](http://www.kyoritsu-pub.co.jp/bookdetail/9784320124226)
 2017年9月21日に輪講メンバーによる訳本、「[速習 強化学習 ―基礎理論とアルゴリズム―](http://www.kyoritsu-pub.co.jp/bookdetail/9784320124226)」が共立出版から出版されました。
 
-![速習 強化学習 ―基礎理論とアルゴリズム―](https://raw.githubusercontent.com/rl-tokyo/szepesvari-book/master/sokusyu-rl.png)
+<img width="30%" src="https://raw.githubusercontent.com/rl-tokyo/szepesvari-book/master/sokusyu-rl.png" />
 
 ### 論文
 紹介された論文に関する議論から派生しての、メンバー同士での論文投稿も目標の一つとしています。**太字**が勉強会参加者です。
