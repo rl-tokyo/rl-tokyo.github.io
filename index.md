@@ -4,14 +4,27 @@ layout: default
 
 # 活動内容
 
-1. 毎週水曜に東京駅近郊で勉強会（教科書輪読または論文紹介）
-2. その他不定期での勉強会
-3. 勉強会での議論から派生したアウトプット活動（書籍・論文の出版）
+1. 隔週水曜に東京駅近郊で勉強会（教科書輪読または論文紹介）
+2. 勉強会での議論から派生したアウトプット活動（書籍・論文の出版）
 
 1.の毎週水曜の勉強会が主な活動内容になります。
 
+## アウトプット
+勉強会での活動から派生してのアウトプットを最終目標としています。これまでに次のようなアウトプット実績があります。
+
+### [速習 強化学習 ―基礎理論とアルゴリズム―](http://www.kyoritsu-pub.co.jp/bookdetail/9784320124226)
+2017年9月21日に輪講メンバーによる訳本、[速習 強化学習 ―基礎理論とアルゴリズム―](http://www.kyoritsu-pub.co.jp/bookdetail/9784320124226)が刊行されました。
+
+<p align=center><img width="30%" src="https://raw.githubusercontent.com/rl-tokyo/szepesvari-book/master/sokusyu-rl.png" /></p>
+
+### 論文
+紹介された論文に関する議論から派生しての、メンバー同士での論文投稿も目標の一つとしています。**太字**が勉強会参加者です。
+
+- **S. Koyamada**, **Y. Kikuchi**, A. Kanemura, **S. Maeda**, and S. Ishii: “[Neural sequence model training via α-divergence minimization.](https://arxiv.org/abs/1706.10031)” [LGNL](https://sites.google.com/site/langgen17/), ICML Workshop, 2017.
+  - 第56回の論文紹介での議論から
+
 ## 教科書輪読
-"[Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html)" の輪講をしています。3週目以降は未定です。
+"[Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html)" の輪講をしていました。3周して終了しました。
 
 - Szepesvári 2010 "[Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html)" (Morgan & Claypool)
 - 毎回5ページ程度
@@ -19,6 +32,8 @@ layout: default
 1. 1周目: 2015/11/20〜
 2. 2週目: 2016/04/06〜
 3. 3週目: 2017/03/01〜
+
+こちらでの輪講資料をもとに[速習 強化学習 ―基礎理論とアルゴリズム―](http://www.kyoritsu-pub.co.jp/bookdetail/9784320124226)が刊行されました。
 
 ## 論文紹介
 
@@ -99,10 +114,17 @@ layout: default
 |  66 | 2017/07/05 | @shiba24 | [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477) | [google slide](https://docs.google.com/presentation/d/1BUAbeNbO_-cEBpFQgN2mnrSaUeF-QLD9OPIFpai9Gz8/edit) / [当日メモ](https://paper.dropbox.com/doc/66-dRD0JX8C0PTnsMi8E1vaF) |
 |  67 | 2017/07/12 | Kume-san | 教科書: p.56-p.62 | [当日メモ](https://paper.dropbox.com/doc/67-d8PCnv47TrSSa1tNqibhN) |
 |  68 | 2017/07/19 | @ikki407 | [Multiagent Bidirectionally-Coordinated Nets for Learning to Play StarCraft Combat Games](https://arxiv.org/abs/1703.10069) | [pdf](resource/20170719-ikki407.pdf) |
-|  69 | 2017/07/26 | @kiyukuta | 教科書: p.62-p.67 | |
-|  70 | 2017/08/02 | Kohno-san | TBA | |
-|  71 | 2017/08/09 | Kawajiri-san | 教科書: p68-p74 | |
-
+|  69 | 2017/07/26 | @kiyukuta | 教科書: p.62-p.67 | [google docs](https://docs.google.com/document/d/1gcH7uqzy6SUfBtLjAkcWnuDs3yrNOgwYUeBCSX7PX88/edit) |
+|  70 | 2017/08/02 | Kohno-san | [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161) | [pdf](resource/20170802-kohno.pdf) |
+|  71 | 2017/08/09 | @rkawajiri | 教科書: p68-p74 | [google docs](https://docs.google.com/document/d/1pUCrvzAbnofbtK8TfDeOQv6IWP7qMVLz68Yu_2LV-18/edit) |
+|  72 | 2017/08/23 | @sotetsuk | ICML2017まとめ | [google slide](https://docs.google.com/presentation/d/1SsjbN6sSXhDvq_NUqn5UX4PVJD25QVgpcpPd3W1xmVg/edit#slide=id.g245b54bc00_0_17) |
+|  73 | 2017/08/30 | @YuriCat | [Learning in POMDPs with Monte Carlo Tree Search](http://proceedings.mlr.press/v70/katt17a.html) | [Dropbox paper](https://paper.dropbox.com/doc/Learning-in-POMDPs-with-Monte-Carlo-Tree-Search-6i4tvTlebl4qBDGzUH45U) |
+|  74 | 2017/09/06 | @maeyon | [A Distributional Perspective on Reinforcement Learning](https://arxiv.org/abs/1707.06887) | [Dropbox paper](https://paper.dropbox.com/doc/A-Distributional-Perspective-on-Reinforcement-Learning-YSY1ciu4RmrhrRD6J5DEZ) |
+|  75 | 2017/09/20 | @rkawajiri | [Improving Stochastic Policy Gradients in Continuous Control with Deep Reinforcement Learning using the Beta Distribution](http://proceedings.mlr.press/v70/chou17a.html) | [Dropbox paper](https://paper.dropbox.com/doc/Improving-Stochastic-Policy-Gradients-in-Continuous-Control-with-Deep-Reinforcement-Learning-using-the-Beta-Distribution-f1huTn8TnkQGIIgE6IZud?_tk=share_copylink) |
+|  76 | 2017/10/04 | @takayukisekine | [Deep Reinforcement Learning  from Human Preference](https://arxiv.org/abs/1706.03741) | [Dropbox paper](https://paper.dropbox.com/doc/_171004_-NILSCrl6lanTqlhpqkzuP) |
+|  77 | 2017/10/18 | @fullflu | [Personalized Ad Recommendation Systems for Life-Time Value Optimization with Guarantees](http://psthomas.com/papers/Theocharous2015a.pdf) | [Dropbox paper](https://paper.dropbox.com/doc/_171018-dM1cZf6vbcVIH6MARLq40) |
+|  78 | 2017/11/01 | @pacocat | ポーカーAI |  |
+|  79 | 2017/11/15 | @ikki407 | AlphaGo Zero |  |
 
 - （注）教科書のページは "[Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html)" のPDFのページに対応
 - （注）担当者欄はGitHubアカウントが判明している方については@つきでGitHubアカウントで掲載しています。
