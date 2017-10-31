@@ -23,7 +23,7 @@ layout: default
 - **S. Koyamada**, **Y. Kikuchi**, A. Kanemura, **S. Maeda**, and S. Ishii: “[Neural sequence model training via α-divergence minimization.](https://arxiv.org/abs/1706.10031)” [LGNL](https://sites.google.com/site/langgen17/), ICML Workshop, 2017.
   - 第56回の論文紹介での議論から
 
-## 教科書輪読
+## 教科書輪読（水曜勉強会）
 "[Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html)" の輪講をしていました。3周して終了しました。
 
 - Szepesvári 2010 "[Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html)" (Morgan & Claypool)
@@ -35,7 +35,7 @@ layout: default
 
 こちらでの輪講資料をもとに[速習 強化学習 ―基礎理論とアルゴリズム―](http://www.kyoritsu-pub.co.jp/bookdetail/9784320124226)が刊行されました。
 
-## 論文紹介
+## 論文紹介（水曜勉強会）
 
 発表担当者が自分の好みで紹介したい論文を一本紹介してもらいます。
 資料の作成は任意になります。
