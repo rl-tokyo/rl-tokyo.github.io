@@ -4,18 +4,18 @@ layout: default
 
 # 活動内容
 
-1. 隔週水曜に東京駅近郊で勉強会（教科書輪読または論文紹介）
-2. 勉強会での議論から派生したアウトプット活動（書籍・論文の出版）
+1. 水曜勉強会: 隔週水曜に東京駅近郊で勉強会（教科書輪読または論文紹介）
+2. アウトプット活動: 勉強会での議論から派生したアウトプット活動（書籍・論文の出版）
 
 1.の毎週水曜の勉強会が主な活動内容になります。
 
-## アウトプット
+## アウトプット活動
 勉強会での活動から派生してのアウトプットを最終目標としています。これまでに次のようなアウトプット実績があります。
 
 ### [速習 強化学習 ―基礎理論とアルゴリズム―](http://www.kyoritsu-pub.co.jp/bookdetail/9784320124226)
-2017年9月21日に輪講メンバーによる訳本、[速習 強化学習 ―基礎理論とアルゴリズム―](http://www.kyoritsu-pub.co.jp/bookdetail/9784320124226)が刊行されました。
+2017年9月21日に輪講メンバーによる訳本、「[速習 強化学習 ―基礎理論とアルゴリズム―](http://www.kyoritsu-pub.co.jp/bookdetail/9784320124226)」が共立出版から出版されました。
 
-<p align=center><img width="30%" src="https://raw.githubusercontent.com/rl-tokyo/szepesvari-book/master/sokusyu-rl.png" /></p>
+![速習 強化学習 ―基礎理論とアルゴリズム―](https://raw.githubusercontent.com/rl-tokyo/szepesvari-book/master/sokusyu-rl.png)
 
 ### 論文
 紹介された論文に関する議論から派生しての、メンバー同士での論文投稿も目標の一つとしています。**太字**が勉強会参加者です。
