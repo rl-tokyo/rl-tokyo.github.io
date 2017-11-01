@@ -7,21 +7,21 @@ layout: default
 1. 水曜勉強会: 隔週水曜に東京駅近郊で勉強会（教科書輪読または論文紹介）
 2. アウトプット活動: 勉強会での議論から派生したアウトプット活動（書籍・論文の出版）
 
-1.の毎週水曜の勉強会が主な活動内容になります。
+1.の水曜勉強会が主な活動内容になります。
 
 ## アウトプット活動
-勉強会での活動から派生してのアウトプットを最終目標としています。これまでに次のようなアウトプット実績があります。
+勉強会での活動・議論から派生してのアウトプットを最終目標としています。これまでに次のようなアウトプット実績があります。
 
-### [速習 強化学習 ―基礎理論とアルゴリズム―](http://www.kyoritsu-pub.co.jp/bookdetail/9784320124226)
-2017年9月21日に輪講メンバーによる訳本、「[速習 強化学習 ―基礎理論とアルゴリズム―](http://www.kyoritsu-pub.co.jp/bookdetail/9784320124226)」が共立出版から出版されました。
+### 速習 強化学習 ―基礎理論とアルゴリズム―
+輪講メンバーによる訳本、「[速習 強化学習 ―基礎理論とアルゴリズム―](http://www.kyoritsu-pub.co.jp/bookdetail/9784320124226)」が共2017年9月21日に共立出版から刊行されました。
 
 <img width="30%" src="https://raw.githubusercontent.com/rl-tokyo/szepesvari-book/master/sokusyu-rl.png" />
 
 ### 論文
-紹介された論文に関する議論から派生しての、メンバー同士での論文投稿も目標の一つとしています。**太字**が勉強会参加者です。
+**太字**が勉強会参加者です。
 
 - **S. Koyamada**, **Y. Kikuchi**, A. Kanemura, **S. Maeda**, and S. Ishii: “[Neural sequence model training via α-divergence minimization.](https://arxiv.org/abs/1706.10031)” [LGNL](https://sites.google.com/site/langgen17/), ICML Workshop, 2017.
-  - 第56回の論文紹介での議論から
+  - 第56回の論文紹介での議論から派生
 
 ## 教科書輪読（水曜勉強会）
 "[Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html)" の輪講をしていました。3周して終了しました。
@@ -123,8 +123,9 @@ layout: default
 |  75 | 2017/09/20 | @rkawajiri | [Improving Stochastic Policy Gradients in Continuous Control with Deep Reinforcement Learning using the Beta Distribution](http://proceedings.mlr.press/v70/chou17a.html) | [Dropbox paper](https://paper.dropbox.com/doc/Improving-Stochastic-Policy-Gradients-in-Continuous-Control-with-Deep-Reinforcement-Learning-using-the-Beta-Distribution-f1huTn8TnkQGIIgE6IZud?_tk=share_copylink) |
 |  76 | 2017/10/04 | @takayukisekine | [Deep Reinforcement Learning  from Human Preference](https://arxiv.org/abs/1706.03741) | [Dropbox paper](https://paper.dropbox.com/doc/_171004_-NILSCrl6lanTqlhpqkzuP) |
 |  77 | 2017/10/18 | @fullflu | [Personalized Ad Recommendation Systems for Life-Time Value Optimization with Guarantees](http://psthomas.com/papers/Theocharous2015a.pdf) | [Dropbox paper](https://paper.dropbox.com/doc/_171018-dM1cZf6vbcVIH6MARLq40) |
-|  78 | 2017/11/01 | @pacocat | ポーカーAI |  |
+|  78 | 2017/11/01 | @pacocat | Poker AIの最新動向 | [pdf](https://www.dropbox.com/s/zn5mhbkaemz4bqr/PokerAI%E3%81%AE%E6%9C%80%E6%96%B0%E5%8B%95%E5%90%91_20171101.pdf?dl=0) |
 |  79 | 2017/11/15 | @ikki407 | AlphaGo Zero |  |
+|  80 | 2017/12/13 | Kume-san | TBA | |
 
 - （注）教科書のページは "[Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html)" のPDFのページに対応
 - （注）担当者欄はGitHubアカウントが判明している方については@つきでGitHubアカウントで掲載しています。
