@@ -123,8 +123,9 @@ layout: default
 |  75 | 2017/09/20 | @rkawajiri | [Improving Stochastic Policy Gradients in Continuous Control with Deep Reinforcement Learning using the Beta Distribution](http://proceedings.mlr.press/v70/chou17a.html) | [Dropbox paper](https://paper.dropbox.com/doc/Improving-Stochastic-Policy-Gradients-in-Continuous-Control-with-Deep-Reinforcement-Learning-using-the-Beta-Distribution-f1huTn8TnkQGIIgE6IZud?_tk=share_copylink) |
 |  76 | 2017/10/04 | @takayukisekine | [Deep Reinforcement Learning  from Human Preference](https://arxiv.org/abs/1706.03741) | [Dropbox paper](https://paper.dropbox.com/doc/_171004_-NILSCrl6lanTqlhpqkzuP) |
 |  77 | 2017/10/18 | @fullflu | [Personalized Ad Recommendation Systems for Life-Time Value Optimization with Guarantees](http://psthomas.com/papers/Theocharous2015a.pdf) | [Dropbox paper](https://paper.dropbox.com/doc/_171018-dM1cZf6vbcVIH6MARLq40) |
-|  78 | 2017/11/01 | @pacocat | ポーカーAI |  |
+|  78 | 2017/11/01 | @pacocat | Poker AIの最新動向 | [pdf](https://www.dropbox.com/s/zn5mhbkaemz4bqr/PokerAI%E3%81%AE%E6%9C%80%E6%96%B0%E5%8B%95%E5%90%91_20171101.pdf?dl=0) |
 |  79 | 2017/11/15 | @ikki407 | AlphaGo Zero |  |
+|  80 | 2017/12/13 | Kume-san | TBA | | 
 
 - （注）教科書のページは "[Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html)" のPDFのページに対応
 - （注）担当者欄はGitHubアカウントが判明している方については@つきでGitHubアカウントで掲載しています。
