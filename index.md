@@ -13,7 +13,7 @@ layout: default
 勉強会での活動・議論から派生してのアウトプットを最終目標としています。これまでに次のようなアウトプット実績があります。
 
 ### 速習 強化学習 ―基礎理論とアルゴリズム―
-輪講メンバーによる訳本、「[速習 強化学習 ―基礎理論とアルゴリズム―](http://www.kyoritsu-pub.co.jp/bookdetail/9784320124226)」が共2017年9月21日に共立出版から刊行されました。
+輪講メンバーによる訳本、「[速習 強化学習 ―基礎理論とアルゴリズム―](http://www.kyoritsu-pub.co.jp/bookdetail/9784320124226)」が2017年9月21日に共立出版から刊行されました。
 
 <img width="30%" src="https://raw.githubusercontent.com/rl-tokyo/szepesvari-book/master/sokusyu-rl.png" />
 
