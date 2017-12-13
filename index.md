@@ -124,8 +124,10 @@ layout: default
 |  76 | 2017/10/04 | @takayukisekine | [Deep Reinforcement Learning  from Human Preference](https://arxiv.org/abs/1706.03741) | [Dropbox paper](https://paper.dropbox.com/doc/_171004_-NILSCrl6lanTqlhpqkzuP) |
 |  77 | 2017/10/18 | @fullflu | [Personalized Ad Recommendation Systems for Life-Time Value Optimization with Guarantees](http://psthomas.com/papers/Theocharous2015a.pdf) | [Dropbox paper](https://paper.dropbox.com/doc/_171018-dM1cZf6vbcVIH6MARLq40) |
 |  78 | 2017/11/01 | @pacocat | Poker AIの最新動向 | [pdf](https://www.slideshare.net/juneokumura/ai-20171031) |
-|  79 | 2017/11/15 | @ikki407 | AlphaGo Zero |  |
-|  80 | 2017/12/13 | Kume-san | TBA | |
+|  79 | 2017/11/15 | @ikki407 | AlphaGo Zero | TBA |
+|  80 | 2017/12/13 | Kume-san | [Uncertainty-driven Imagination for Continuous Deep Reinforcement Learning](http://proceedings.mlr.press/v78/kalweit17a/kalweit17a.pdf)/[The Intentional Unintentional Agent: Learning to Solve Many Continuous Control Tasks Simultaneously](https://arxiv.org/abs/1707.03300)| [pdf](resources/20171213-kume.pdf) |
+|  81 | 2017/01/17 | @sotetsuk | TBA | TBA |
+|  82 | 2017/01/31 | @muupan | TBA | TBA |
 
 - （注）教科書のページは "[Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html)" のPDFのページに対応
 - （注）担当者欄はGitHubアカウントが判明している方については@つきでGitHubアカウントで掲載しています。
