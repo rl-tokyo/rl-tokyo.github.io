@@ -136,7 +136,7 @@ layout: default
 |  88 | 2018/4/25 | Kikuchi-san| TBA | TBA |
 |  89 | 2018/5/08 | @rkawajiri| TBA | TBA |
 |  90 | 2018/5/22 | Maeda-san | TBA | TBA |
-|  91 | 2018/6/05 | @toslunar| TBA | TBA |
+|  91 | 2018/6/05 | @toslunar| [Learning Deep Mean Field Games for Modeling Large Population Behavior](https://arxiv.org/pdf/1711.03156.pdf) | None |
 |  92 | 2018/6/19 | Yamaguchi| [GAIL](https://arxiv.org/abs/1606.03476) | [google docs](https://docs.google.com/document/d/1j9zdjx9457Ud06RPlg91UsrSiyx1VHT7icQiqRrnFQ8/edit?usp=sharing) |
 |  93 | 2018/07/03 | Arakawa-kun | [RUDDER](https://arxiv.org/abs/1806.07857) | TBA |
 |  94 | 2018/07/17 | Ohto-kun | TBA | TBA |
