@@ -4,10 +4,10 @@ layout: default
 
 # 活動内容
 
-1. 水曜勉強会: 隔週水曜に東京駅近郊で勉強会（教科書輪読または論文紹介）
+1. 火曜勉強会: 隔週火曜に東京駅近郊で勉強会（教科書輪読または論文紹介）
 2. アウトプット活動: 勉強会での議論から派生したアウトプット活動（書籍・論文の出版）
 
-1.の水曜勉強会が主な活動内容になります。
+1.の火曜勉強会が主な活動内容になります。
 
 ## アウトプット活動
 勉強会での活動・議論から派生してのアウトプットを最終目標としています。これまでに次のようなアウトプット実績があります。
@@ -128,6 +128,17 @@ layout: default
 |  80 | 2017/12/13 | Kume-san | [Uncertainty-driven Imagination for Continuous Deep Reinforcement Learning](http://proceedings.mlr.press/v78/kalweit17a/kalweit17a.pdf)/[The Intentional Unintentional Agent: Learning to Solve Many Continuous Control Tasks Simultaneously](https://arxiv.org/abs/1707.03300)| [pdf](resources/20171213-kume.pdf) |
 |  81 | 2018/01/17 | @sotetsuk | TBA | TBA |
 |  82 | 2018/01/31 | @muupan | TBA | TBA |
+|  83 | 2018/2/14 | arakawa-kun| TBA | TBA |
+|  84 | 2018/2/28 | Okumura | TBA | TBA |
+|  85 | 2018/3/14 | Ohto-kun| TBA | TBA |
+|  86 | 2018/3/28 | Takayama-kun| TBA | TBA |
+|  87 | 2018/4/10 | Nishiura-kun| TBA | TBA |
+|  88 | 2018/4/24 | Kikuchi-san| TBA | TBA |
+|  89 | 2018/5/08 | @rkawajiri| TBA | TBA |
+|  90 | 2018/5/22 | Maeda-san | TBA | TBA |
+|  91 | 2018/6/05 | @toslunar| TBA | TBA |
+|  92 | 2018/6/19 | Kikuchi-san| TBA | TBA |
+
 
 - （注）教科書のページは "[Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html)" のPDFのページに対応
 - （注）担当者欄はGitHubアカウントが判明している方については@つきでGitHubアカウントで掲載しています。
