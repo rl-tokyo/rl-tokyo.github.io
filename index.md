@@ -127,17 +127,20 @@ layout: default
 |  79 | 2017/11/15 | @ikki407 | AlphaGo Zero | TBA |
 |  80 | 2017/12/13 | Kume-san | [Uncertainty-driven Imagination for Continuous Deep Reinforcement Learning](http://proceedings.mlr.press/v78/kalweit17a/kalweit17a.pdf)/[The Intentional Unintentional Agent: Learning to Solve Many Continuous Control Tasks Simultaneously](https://arxiv.org/abs/1707.03300)| [pdf](resources/20171213-kume.pdf) |
 |  81 | 2018/01/17 | @sotetsuk | TBA | TBA |
-|  82 | 2018/01/31 | @muupan | TBA | TBA |
+|  82 | 2018/01/28 | @muupan | TBA | TBA |
 |  83 | 2018/2/14 | arakawa-kun| TBA | TBA |
 |  84 | 2018/2/28 | Okumura | TBA | TBA |
 |  85 | 2018/3/14 | Ohto-kun| TBA | TBA |
 |  86 | 2018/3/28 | Takayama-kun| TBA | TBA |
-|  87 | 2018/4/10 | Nishiura-kun| TBA | TBA |
-|  88 | 2018/4/24 | Kikuchi-san| TBA | TBA |
+|  87 | 2018/4/11 | Nishiura-kun| TBA | TBA |
+|  88 | 2018/4/25 | Kikuchi-san| TBA | TBA |
 |  89 | 2018/5/08 | @rkawajiri| TBA | TBA |
 |  90 | 2018/5/22 | Maeda-san | TBA | TBA |
 |  91 | 2018/6/05 | @toslunar| TBA | TBA |
-|  92 | 2018/6/19 | Kikuchi-san| TBA | TBA |
+|  92 | 2018/6/19 | Yamaguchi| [GAIL](https://arxiv.org/abs/1606.03476) | [google docs](https://docs.google.com/document/d/1j9zdjx9457Ud06RPlg91UsrSiyx1VHT7icQiqRrnFQ8/edit?usp=sharing) |
+|  93 | 2018/07/03 | Arakawa-kun | [RUDDER](https://arxiv.org/abs/1806.07857) | TBA |
+|  94 | 2018/07/17 | Ohto-kun | TBA | TBA |
+|  95 | 2018/07/31 | @muupan | TBA | TBA |
 
 
 - （注）教科書のページは "[Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html)" のPDFのページに対応
