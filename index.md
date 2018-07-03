@@ -126,18 +126,21 @@ layout: default
 |  78 | 2017/11/01 | @pacocat | Poker AIの最新動向 | [pdf](https://www.slideshare.net/juneokumura/ai-20171031) |
 |  79 | 2017/11/15 | @ikki407 | AlphaGo Zero | TBA |
 |  80 | 2017/12/13 | Kume-san | [Uncertainty-driven Imagination for Continuous Deep Reinforcement Learning](http://proceedings.mlr.press/v78/kalweit17a/kalweit17a.pdf)/[The Intentional Unintentional Agent: Learning to Solve Many Continuous Control Tasks Simultaneously](https://arxiv.org/abs/1707.03300)| [pdf](resources/20171213-kume.pdf) |
-|  81 | 2018/01/17 | @sotetsuk | TBA | TBA |
-|  82 | 2018/01/31 | @muupan | TBA | TBA |
-|  83 | 2018/2/14 | arakawa-kun| TBA | TBA |
-|  84 | 2018/2/28 | Okumura | TBA | TBA |
-|  85 | 2018/3/14 | Ohto-kun| TBA | TBA |
-|  86 | 2018/3/28 | Takayama-kun| TBA | TBA |
-|  87 | 2018/4/10 | Nishiura-kun| TBA | TBA |
-|  88 | 2018/4/24 | Kikuchi-san| TBA | TBA |
-|  89 | 2018/5/08 | @rkawajiri| TBA | TBA |
-|  90 | 2018/5/22 | Maeda-san | TBA | TBA |
-|  91 | 2018/6/05 | @toslunar| TBA | TBA |
-|  92 | 2018/6/19 | Kikuchi-san| TBA | TBA |
+|  81 | 2018/01/17 | @sotetsuk | NIPS2017のRL x structured (sequence) prediction系 | [Dropbox paper](https://paper.dropbox.com/doc/seq2seq-NIPS2017-YCPiFpzAGmci8qXvVBcUT) |
+|  82 | 2018/01/28 | @muupan | Model-Based Reinforcement Learning @NIPS2017 | [Slideshare](https://www.slideshare.net/mooopan/modelbased-reinforcement-learning-nips2017) |
+|  83 | 2018/02/14 | arakawa-kun| [Emergence of Linguistic Communication from Referential Games with Symbolic and Pixel Input](https://openreview.net/references/pdf?id=SJlP1b-0-) | [google docs](https://docs.google.com/presentation/d/1WbdhTAYdWzYQIMgE3S6g9rkxOafocgjdOaayjlUeguc/edit#slide=id.g309ca3cc62_0_125) |
+|  84 | 2018/02/28 | Okumura | DQNからRainbowまで 〜深層強化学習の最新動向〜 | [Slideshare](https://www.slideshare.net/juneokumura/dqnrainbow) |
+|  85 | 2018/03/14 | Ohto-kun| [Learning to Search with MCTSnets](https://arxiv.org/abs/1802.04697) | [Dropbox paper](https://paper.dropbox.com/doc/Learning-to-Search-with-MCTSnets-8QVRPzzqmO5flNzNxzg1b) |
+|  86 | 2018/03/28 | Takayama-kun| [Q-learning with censored data](https://arxiv.org/abs/1205.6659) | [Dropbox paper](https://paper.dropbox.com/doc/_180328-lAuYG3I558Kop0yvTkjsf) |
+|  87 | 2018/04/11 | Nishiura-kun| [Active Neural Localization](https://openreview.net/forum?id=ry6-G_66b) | [google slide](https://drive.google.com/open?id=1pHk1-dyniF1lloiiyrj2x5n3txeG0A9uY8YYgKPP90k) |
+|  88 | 2018/04/25 | Kikuchi-san| [Learning an Embedding Space for Transferable Robot Skills](https://openreview.net/forum?id=rk07ZXZRb) | [Dropbox paper](https://paper.dropbox.com/doc/ICLR2018-Learning-an-Embedding-Space-for-Transferable-Robot-Skills-0iuMlK8stedQa4uDHc70H?_tk=share_copylink) |
+|  89 | 2018/05/08 | @rkawajiri| [MAML](https://arxiv.org/abs/1703.03400) | [Dropbox paper](https://paper.dropbox.com/doc/Model-Agnostic-Meta-Learning-for-Fast-Adaptation-of-Deep-Networks-MAML-6M5XtdNrpeM9FzTBAiMQ4?_tk=share_copylink) |
+|  90 | 2018/05/22 | Maeda-san | [Towards Symbolic Reinforcement Learning with Common Sense](https://arxiv.org/abs/1804.08597) | [Dropbox paper](https://paper.dropbox.com/doc/Towards-Symbolic-Reinforcement-Learning-with-Common-Sense-45VHtSCoe0na1RNrhHA3N) |
+|  91 | 2018/06/05 | @toslunar| [Learning Deep Mean Field Games for Modeling Large Population Behavior](https://arxiv.org/pdf/1711.03156.pdf) | None |
+|  92 | 2018/06/19 | Yamaguchi| [GAIL](https://arxiv.org/abs/1606.03476) | [google docs](https://docs.google.com/document/d/1j9zdjx9457Ud06RPlg91UsrSiyx1VHT7icQiqRrnFQ8/edit?usp=sharing) |
+|  93 | 2018/07/03 | Arakawa-kun | [RUDDER](https://arxiv.org/abs/1806.07857) | TBA |
+|  94 | 2018/07/17 | Ohto-kun | TBA | TBA |
+|  95 | 2018/07/31 | @muupan | TBA | TBA |
 
 
 - （注）教科書のページは "[Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html)" のPDFのページに対応
