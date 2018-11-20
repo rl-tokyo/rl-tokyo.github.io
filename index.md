@@ -138,9 +138,16 @@ layout: default
 |  90 | 2018/05/22 | Maeda-san | [Towards Symbolic Reinforcement Learning with Common Sense](https://arxiv.org/abs/1804.08597) | [Dropbox paper](https://paper.dropbox.com/doc/Towards-Symbolic-Reinforcement-Learning-with-Common-Sense-45VHtSCoe0na1RNrhHA3N) |
 |  91 | 2018/06/05 | @toslunar| [Learning Deep Mean Field Games for Modeling Large Population Behavior](https://arxiv.org/pdf/1711.03156.pdf) | None |
 |  92 | 2018/06/19 | Yamaguchi| [GAIL](https://arxiv.org/abs/1606.03476) | [google docs](https://docs.google.com/document/d/1j9zdjx9457Ud06RPlg91UsrSiyx1VHT7icQiqRrnFQ8/edit?usp=sharing) |
-|  93 | 2018/07/03 | Arakawa-kun | [RUDDER](https://arxiv.org/abs/1806.07857) | TBA |
+|  93 | 2018/07/03 | Arakawa-kun | [RUDDER](https://arxiv.org/abs/1806.07857) | [google slide](https://docs.google.com/presentation/d/1GOrIDkoZ_w_PpKk-nDVzLVZx4c1Ix7UTRZ99mHdKvJA/edit?usp=sharing) |
 |  94 | 2018/07/17 | Ohto-kun | TBA | TBA |
 |  95 | 2018/07/31 | @muupan | TBA | TBA |
+|  96 | 2018/08/21 | @jun.okumura | TBA | TBA |
+|  97 | 2018/09/11 | @ichi | TBA | TBA |
+|  98 | 2018/10/09 | @kawajiri | TBA | TBA |
+|  99 | 2018/10/23 | @maso | TBA | TBA |
+|  100 | 2018/11/06 | @kume | TBA | TBA |
+|  101 | 2018/11/20 | @kikuchi | TBA | TBA |
+|  102 | 2018/12/04 | @takahashi | TBA | TBA |
 
 
 - （注）教科書のページは "[Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html)" のPDFのページに対応
